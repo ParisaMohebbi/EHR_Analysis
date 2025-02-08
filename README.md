@@ -5,6 +5,5 @@
 
 ### Authors:
 - Parisa Vaghfi Mohebbi  
-- Ahmad Salehiyan  
-
-
+- Ahmad Salehiyan
+- Akash Deep
